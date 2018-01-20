@@ -1,0 +1,41 @@
+[{
+        "id": 0,
+        "source": "./images/dora2.jpeg",
+        "click_state": false
+    },
+    {
+        "id": 1,
+        "source": "./images/dora1.jpg",
+        "click_state": false
+    },
+    {
+        "id": 2,
+        "source": "./images/backpack.jpeg",
+        "click_state": false
+    },
+    {
+        "id": 3,
+        "source": "./images/body.jpeg",
+        "click_state": false
+    },
+    {
+        "id": 4,
+        "source": "./images/cow.jpeg",
+        "click_state": false
+    },
+    {
+        "id": 5,
+        "source": "./images/fox.jpeg",
+        "click_state": false
+    },
+    {
+        "id": 6,
+        "source": "./images/monkey.jpeg",
+        "click_state": false
+    },
+    {
+        "id": 7,
+        "source": "./images/teacher.jpeg",
+        "click_state": false
+    }
+]
